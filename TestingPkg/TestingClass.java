@@ -21,4 +21,11 @@ public class TestingClass {
 		System.out.println("This is the develop branch");
 		System.out.println("Written by developer B");
 	}
+	
+	void deposit() {
+		System.out.println("This is a withdraw method");
+		System.out.println("Version 2");
+		System.out.println("This is the feature/deposit branch");
+		System.out.println("Written by developer C");
+	}
 }
