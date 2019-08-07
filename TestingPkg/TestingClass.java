@@ -5,8 +5,6 @@ public class TestingClass {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-
-
 	}
 	void login() {
 		System.out.println("Hello my friends");
@@ -34,5 +32,9 @@ public class TestingClass {
 		System.out.println("Version 2");
 		System.out.println("This is the feature/check_balance branch");
 		System.out.println("Written by developer B");
+	}
+	
+	void logout() {
+		System.out.println("logging out..");
 	}
 }
