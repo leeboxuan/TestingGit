@@ -28,4 +28,11 @@ public class TestingClass {
 		System.out.println("This is the feature/deposit branch");
 		System.out.println("Written by developer C");
 	}
+	
+	void checkBalance() {
+		System.out.println("This is a check balance method");
+		System.out.println("Version 2");
+		System.out.println("This is the feature/check_balance branch");
+		System.out.println("Written by developer B");
+	}
 }
